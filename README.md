@@ -26,7 +26,7 @@ O repositório abrange uma ampla gama de tópicos importantes de lógica de prog
 # Objetivo:
 Este portfólio não se trata apenas de resolver problemas de lógica de programação, mas sim de demonstrar minha evolução e habilidades como programador Python. Cada solução é apresentada com clareza e comentários explicativos, visando mostrar meu pensamento lógico e estilo de codificação. Além disso, busco aprimorar constantemente as soluções existentes e adicionar novos desafios ao longo do tempo.
 
-#Contribuições:
+# Contribuições:
 Embora este seja um repositório pessoal, estou aberto a feedbacks e sugestões construtivas. Se você identificar formas de melhorar qualquer exercício ou tiver ideias para novos desafios, ficarei feliz em ouvir suas contribuições. Sinta-se à vontade para abrir issues ou enviar solicitações de pull.
 
 Agradeço por visitar meu Portfólio de Exercícios de Lógica de Programação em Python. Espero que esses exercícios sejam úteis para outros desenvolvedores em sua jornada de aprendizado. Vamos continuar aprendendo juntos e construindo um futuro mais inteligente e eficiente através da programação!

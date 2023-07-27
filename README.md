@@ -19,9 +19,9 @@ O repositório abrange uma ampla gama de tópicos importantes de lógica de prog
 
 * Funções: Criação e aplicação de funções para modularizar o código e facilitar a reutilização.
 
-*Recursão: Implementação de funções recursivas para resolver problemas de forma elegante e eficiente.
+* Recursão: Implementação de funções recursivas para resolver problemas de forma elegante e eficiente.
 
-*Tratamento de Erros: Utilização de try, except e finally para lidar com exceções e garantir a robustez do programa.
+* Tratamento de Erros: Utilização de try, except e finally para lidar com exceções e garantir a robustez do programa.
 
 # Objetivo:
 Este portfólio não se trata apenas de resolver problemas de lógica de programação, mas sim de demonstrar minha evolução e habilidades como programador Python. Cada solução é apresentada com clareza e comentários explicativos, visando mostrar meu pensamento lógico e estilo de codificação. Além disso, busco aprimorar constantemente as soluções existentes e adicionar novos desafios ao longo do tempo.

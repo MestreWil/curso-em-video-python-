@@ -21,10 +21,10 @@ class Churrasco:
         preco_por_pessoa = preco_total / self._pessoas
         kg_total = self._consumo * self._pessoas
         mensagem = f"Analisando [green]{self._titulo}[/] com [blue]{self._pessoas} convidados.[/]\n"
-        mensagem += f"Cada participante comerá {self._consumo} e cada Kg custa R${self._preco}\n"
+        mensagem += f"Cada participante comerá {self._consumo}Kg e cada Kg custa R${self._preco:.2f}\n"
         mensagem += f"Recomendo [blue]comprar {kg_total}[/] de carne\n"
-        mensagem += f"O custo total será de [green]{preco_total:.2f}[/]\n"
-        mensagem += f"Cada pessoa pagará [yellow]{preco_por_pessoa}[/]\n"
+        mensagem += f"O custo total será de R$[green]{preco_total:.2f}[/]\n"
+        mensagem += f"Cada pessoa pagará R$[yellow]{preco_por_pessoa}[/]\n"
         analise = Panel(mensagem, title=self._titulo)
         print(analise)
 c1 = Churrasco("Churras dos amigos", 15)
